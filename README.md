@@ -1,5 +1,5 @@
 # sincos
-Fun triggy visualizations on an HTML5 canvas, and a 3D version made with THREE.js
+Triggy visualizations on an HTML5 canvas, and a 3D version made with THREE.js
 
 0-9 and the qwerty row of keys change the object being modeled. Backspace randomizes the elements. ESC to pause. SPACE to reverse.
 
